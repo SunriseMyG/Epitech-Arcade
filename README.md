@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/arcade.png alt="logo" width=1614 height=1192 />
+<img src=https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/arcade.png alt="logo" width=500 height=500 />
 
 <h1>Arcade game</h1>
 <p>Arcade game with many graphic lib in C++ and work with the other lib provided by other group of the project. Snake, Pacman and Nibbler game is implemented with SFML, SDL2 and Ncurses graphic library</p>
