@@ -84,7 +84,7 @@ see `contributing.md` for ways to get started
 
 MIT License
 
-Copyright (c) 2024 Sunrise/187Lucka
+Copyright (c) 2024 StevenDeff/187Lucka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
