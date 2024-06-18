@@ -86,7 +86,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## :handshake: Contact
 
-Steven - [@twitter_handle](https://x.com/AVS_Clipped) - [@linkedin](linkedin.com/in/steven-deffontaine/) - steven.deffontaine@epitech.eu
+Steven - [@twitter_handle](https://x.com/AVS_Clipped) - [@linkedin](linkedin.com/in/steven-deffontaine/) - steven.deffontaine@epitech.eu <br></br>
 Lucka - [@linkedin](linkedin.com/in/lucka-valtriani-8a8551258/) - lucka.valtriani@epitech.eu
 
 Project Link: [https://github.com/StevenDeff/Epitech-Arcade](https://github.com/StevenDeff/Epitech-Arcade)
