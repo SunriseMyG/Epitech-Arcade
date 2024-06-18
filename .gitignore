@@ -1,0 +1,5 @@
+build
+.vscode
+scores/
+lib/*.so
+arcade
