@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/arcade.png alt="logo" width=1920 height=1080 />
+<img src=https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/arcade.png alt="logo" width=1614 height=1192 />
 
 <h1>Arcade game</h1>
 <p>Arcade game with many graphic lib in C++ and work with the other lib provided by other group of the project. Snake, Pacman and Nibbler game is implemented with SFML, SDL2 and Ncurses graphic library</p>
@@ -73,8 +73,8 @@ Start
 
 ## :wave: Contributing
 
-<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src="https://github.com/StevenDeff.png" /> </a>
-<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src="https://github.com/187Lucka.png" /> </a>
+<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src=https://github.com/StevenDeff.png width=176 height=176 /> </a>
+<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src=https://github.com/187Lucka.png width=176 height=176 /> </a>
 
 Contributions are always welcome!
 
