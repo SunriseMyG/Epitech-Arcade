@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://imgur.com/a/6UKmW7j alt="logo" width=1920 height=1080 />
+<img src=https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/arcade.png alt="logo" width=1920 height=1080 />
 
 <h1>Arcade game</h1>
 <p>Arcade game with many graphic lib in C++ and work with the other lib provided by other group of the project. Snake, Pacman and Nibbler game is implemented with SFML, SDL2 and Ncurses graphic library</p>
@@ -21,15 +21,16 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://imgur.com/a/SEyIxGM" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/0lBfAzo" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/AFAnbNW" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/HEykwYY" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/wTWPNB8" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/DxLTkFv" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/DqcxPwJ" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/a/jobv3yE" alt='image' width='800'/></a> </div>
-
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_155521.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_155609.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_155950.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160037.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160052.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160111.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160124.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160200.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160259.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Arcade/blob/main/screenshots/Screenshot_20240618_160407.png" alt='image' width='800'/></a> </div>
 
 
 ## :toolbox: Getting Started
@@ -72,7 +73,8 @@ Start
 
 ## :wave: Contributing
 
-<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src="https://github.com/StevenDeff.png" /> </a>
+<a href="https://github.com/StevenDeff/Epitech-Arcade/graphs/contributors"> <img src="https://github.com/187Lucka.png" /> </a>
 
 Contributions are always welcome!
 
