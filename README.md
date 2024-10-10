@@ -73,7 +73,7 @@ Start
 
 ## :wave: Contributing
 
-<a href="https://github.com/StevenDeff"> <img src=https://github.com/StevenDeff.png width=176 height=176 /> </a>
+<a href="https://github.com/SunriseMyG"> <img src=https://github.com/SunriseMyG.png width=176 height=176 /> </a>
 <a href="https://github.com/187Lucka"> <img src=https://github.com/187Lucka.png width=176 height=176 /> </a>
 
 Contributions are always welcome!
@@ -106,7 +106,7 @@ SOFTWARE.
 
 ## :handshake: Contact
 
-Steven - [@twitter](https://x.com/AVS_Clipped) - [@linkedin](linkedin.com/in/steven-deffontaine/) - steven.deffontaine@epitech.eu <br></br>
+Steven - [@twitter](https://x.com/AceTeeGG) - [@linkedin](linkedin.com/in/steven-deffontaine/) - steven.deffontaine@epitech.eu <br></br>
 Lucka - [@linkedin](linkedin.com/in/lucka-valtriani-8a8551258/) - lucka.valtriani@epitech.eu
 
-Project Link: [https://github.com/StevenDeff/Epitech-Arcade](https://github.com/StevenDeff/Epitech-Arcade)
+Project Link: [https://github.com/StevenDeff/Epitech-Arcade](https://github.com/SunriseMyG/Epitech-Arcade)
